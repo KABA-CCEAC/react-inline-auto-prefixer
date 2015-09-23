@@ -28,7 +28,6 @@ coverage
 tmp
 
 .tmp
-dist
 
 # Users Environment Variables
 .lock-wscript
